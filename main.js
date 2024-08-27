@@ -5,7 +5,7 @@ let ffBtn = document.getElementById('ffbtn')
 let fbBtn = document.getElementById('fbbtn')
 let dancer = document.getElementById('dancer')
 
-// jgijhokohijrih
+// jgijhokohijrihhijk
 
 playBtn.onclick = function(){
     mySong.play();
